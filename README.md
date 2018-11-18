@@ -1,2 +1,2 @@
 # wakaru
-Chingo Voyage 7 project
+Chingu Voyage 7 project
